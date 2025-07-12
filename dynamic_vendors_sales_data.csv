@@ -1,0 +1,151 @@
+Date,Time,VendorID,VendorName,Location,Product,Quantity(Kg),PaymentMode,BasePricePerKg,AdjustedPricePerKg,PriceFactorReason,TotalAmount,Stock(Kg),Sold(Kg),Unsold(Kg),Spoiled(Kg),Weather,Temperature(C)
+2025-06-01,18:06,101,GreenMart,Mumbai,Orange,1.82,Cash,80,83,Rainy weather - spoilage risk,151.06,131,60,71,0,Rainy,22
+2025-06-01,18:16,102,FarmFresh,Delhi,Grapes,1.56,Cash,90,95,Rainy weather - spoilage risk,148.2,249,243,6,4,Rainy,22
+2025-06-01,07:15,103,FreshVille,Bangalore,Grapes,2.36,Cash,90,94,Rainy weather - spoilage risk,221.84,147,144,3,1,Rainy,22
+2025-06-01,15:49,104,NatureBasket,Hyderabad,Apple,7.55,Cash,120,125,Rainy weather - spoilage risk,943.75,237,171,66,4,Rainy,22
+2025-06-01,11:15,105,FruitBazaar,Chennai,Grapes,2.19,UPI,90,95,Rainy weather - spoilage risk,208.05,88,76,12,2,Rainy,22
+2025-06-01,11:46,106,AgroFresh,Pune,Spinach,6.93,UPI,25,28,Rainy weather - spoilage risk,194.04,158,119,39,7,Rainy,22
+2025-06-01,09:11,107,DailyHarvest,Ahmedabad,Tomato,4.67,Cash,30,35,Rainy weather - spoilage risk,163.45,163,105,58,1,Rainy,22
+2025-06-01,14:37,108,GreenKart,Jaipur,Apple,2.16,Cash,120,123,Rainy weather - spoilage risk,265.68,150,109,41,12,Rainy,22
+2025-06-01,13:28,109,LocalHarvest,Kolkata,Potato,1.83,UPI,20,24,Rainy weather - spoilage risk,43.92,70,41,29,1,Rainy,22
+2025-06-01,13:14,110,OrganicRoots,Surat,Spinach,5.6,UPI,25,29,Rainy weather - spoilage risk,162.4,195,187,8,0,Rainy,22
+2025-06-01,07:47,111,HarvestPoint,Lucknow,Carrot,6.92,UPI,40,44,Rainy weather - spoilage risk,304.48,96,68,28,8,Rainy,22
+2025-06-01,09:08,112,NatureGreen,Nagpur,Apple,1.31,UPI,120,126,Rainy weather - spoilage risk,165.06,68,47,21,7,Rainy,22
+2025-06-01,15:12,113,UrbanFresh,Indore,Potato,5.05,Cash,20,23,Rainy weather - spoilage risk,116.15,213,85,128,13,Rainy,22
+2025-06-01,15:54,114,CityFarm,Bhopal,Potato,5.79,Cash,20,25,Rainy weather - spoilage risk,144.75,146,128,18,1,Rainy,22
+2025-06-01,16:09,115,FreshBite,Kanpur,Carrot,5.51,Cash,40,43,Rainy weather - spoilage risk,236.93,164,103,61,5,Rainy,22
+2025-06-02,07:52,101,GreenMart,Mumbai,Tomato,6.49,Cash,30,35,Rainy weather - spoilage risk,227.15,65,60,5,4,Rainy,26
+2025-06-02,16:43,102,FarmFresh,Delhi,Apple,0.97,UPI,120,123,Rainy weather - spoilage risk,119.31,237,74,163,15,Rainy,26
+2025-06-02,16:10,103,FreshVille,Bangalore,Banana,0.7,Cash,50,56,Rainy weather - spoilage risk,39.2,195,165,30,13,Rainy,26
+2025-06-02,10:17,104,NatureBasket,Hyderabad,Carrot,2.64,Cash,40,45,Rainy weather - spoilage risk,118.8,83,71,12,2,Rainy,26
+2025-06-02,13:10,105,FruitBazaar,Chennai,Carrot,6.31,Cash,40,43,Rainy weather - spoilage risk,271.33,174,64,110,1,Rainy,26
+2025-06-02,09:43,106,AgroFresh,Pune,Tomato,5.2,Cash,30,36,Rainy weather - spoilage risk,187.2,63,60,3,2,Rainy,26
+2025-06-02,07:50,107,DailyHarvest,Ahmedabad,Carrot,6.26,Cash,40,44,Rainy weather - spoilage risk,275.44,69,57,12,2,Rainy,26
+2025-06-02,17:25,108,GreenKart,Jaipur,Apple,2.78,UPI,120,124,Rainy weather - spoilage risk,344.72,233,70,163,15,Rainy,26
+2025-06-02,12:07,109,LocalHarvest,Kolkata,Orange,2.27,Cash,80,84,Rainy weather - spoilage risk,190.68,215,213,2,2,Rainy,26
+2025-06-02,18:08,110,OrganicRoots,Surat,Orange,0.98,UPI,80,83,Rainy weather - spoilage risk,81.34,119,89,30,2,Rainy,26
+2025-06-02,18:24,111,HarvestPoint,Lucknow,Onion,4.62,Cash,22,25,Rainy weather - spoilage risk,115.5,140,100,40,0,Rainy,26
+2025-06-02,16:13,112,NatureGreen,Nagpur,Spinach,3.18,Cash,25,28,Rainy weather - spoilage risk,89.04,120,88,32,0,Rainy,26
+2025-06-02,16:17,113,UrbanFresh,Indore,Mango,7.87,Cash,100,105,Rainy weather - spoilage risk,826.35,151,142,9,9,Rainy,26
+2025-06-02,08:36,114,CityFarm,Bhopal,Mango,7.06,UPI,100,103,Rainy weather - spoilage risk,727.18,69,67,2,0,Rainy,26
+2025-06-02,16:09,115,FreshBite,Kanpur,Mango,3.87,UPI,100,104,Rainy weather - spoilage risk,402.48,190,134,56,9,Rainy,26
+2025-06-03,15:55,101,GreenMart,Mumbai,Orange,6.68,UPI,80,85,Rainy weather - spoilage risk,567.8,132,59,73,5,Rainy,23
+2025-06-03,17:41,102,FarmFresh,Delhi,Orange,6.53,Cash,80,86,Rainy weather - spoilage risk,561.58,96,55,41,8,Rainy,23
+2025-06-03,15:58,103,FreshVille,Bangalore,Apple,3.91,Cash,120,125,Rainy weather - spoilage risk,488.75,202,65,137,7,Rainy,23
+2025-06-03,17:45,104,NatureBasket,Hyderabad,Tomato,7.09,UPI,30,35,Rainy weather - spoilage risk,248.15,230,71,159,14,Rainy,23
+2025-06-03,09:16,105,FruitBazaar,Chennai,Orange,7.89,UPI,80,83,Rainy weather - spoilage risk,654.87,234,127,107,0,Rainy,23
+2025-06-03,13:28,106,AgroFresh,Pune,Mango,7.49,UPI,100,103,Rainy weather - spoilage risk,771.47,148,131,17,13,Rainy,23
+2025-06-03,15:30,107,DailyHarvest,Ahmedabad,Orange,6.72,Cash,80,85,Rainy weather - spoilage risk,571.2,239,44,195,7,Rainy,23
+2025-06-03,18:44,108,GreenKart,Jaipur,Onion,6.25,UPI,22,27,Rainy weather - spoilage risk,168.75,103,54,49,1,Rainy,23
+2025-06-03,17:17,109,LocalHarvest,Kolkata,Mango,5.38,Cash,100,104,Rainy weather - spoilage risk,559.52,211,208,3,2,Rainy,23
+2025-06-03,18:44,110,OrganicRoots,Surat,Grapes,8.0,UPI,90,95,Rainy weather - spoilage risk,760.0,211,92,119,4,Rainy,23
+2025-06-03,09:01,111,HarvestPoint,Lucknow,Spinach,3.89,UPI,25,30,Rainy weather - spoilage risk,116.7,168,163,5,4,Rainy,23
+2025-06-03,10:16,112,NatureGreen,Nagpur,Banana,7.65,UPI,50,56,Rainy weather - spoilage risk,428.4,229,130,99,11,Rainy,23
+2025-06-03,18:43,113,UrbanFresh,Indore,Grapes,2.19,Cash,90,95,Rainy weather - spoilage risk,208.05,61,42,19,11,Rainy,23
+2025-06-03,15:32,114,CityFarm,Bhopal,Potato,4.52,Cash,20,24,Rainy weather - spoilage risk,108.48,113,108,5,0,Rainy,23
+2025-06-03,07:03,115,FreshBite,Kanpur,Potato,7.73,Cash,20,26,Rainy weather - spoilage risk,200.98,207,135,72,0,Rainy,23
+2025-06-04,10:52,101,GreenMart,Mumbai,Orange,6.31,UPI,80,75,Low demand / Surplus stock,473.25,249,122,127,4,Cloudy,30
+2025-06-04,17:07,102,FarmFresh,Delhi,Tomato,4.4,UPI,30,25,Low demand / Surplus stock,110.0,200,114,86,5,Cloudy,30
+2025-06-04,10:40,103,FreshVille,Bangalore,Mango,4.89,Cash,100,95,Low demand / Surplus stock,464.55,155,61,94,8,Cloudy,30
+2025-06-04,18:37,104,NatureBasket,Hyderabad,Mango,2.91,Cash,100,100,Stable,291.0,120,100,20,1,Cloudy,30
+2025-06-04,18:27,105,FruitBazaar,Chennai,Banana,7.78,Cash,50,50,Stable,389.0,98,59,39,3,Cloudy,30
+2025-06-04,07:29,106,AgroFresh,Pune,Grapes,4.89,Cash,90,87,Low demand / Surplus stock,425.43,152,91,61,0,Cloudy,30
+2025-06-04,16:35,107,DailyHarvest,Ahmedabad,Onion,2.46,Cash,22,29,High demand,71.34,231,209,22,0,Cloudy,30
+2025-06-04,08:39,108,GreenKart,Jaipur,Grapes,1.3,UPI,90,86,High spoilage,111.8,63,46,17,13,Cloudy,30
+2025-06-04,15:17,109,LocalHarvest,Kolkata,Potato,5.76,Cash,20,20,Stable,115.2,125,101,24,8,Cloudy,30
+2025-06-04,13:19,110,OrganicRoots,Surat,Grapes,7.27,UPI,90,90,Stable,654.3,184,144,40,6,Cloudy,30
+2025-06-04,17:11,111,HarvestPoint,Lucknow,Spinach,1.81,UPI,25,25,Stable,45.25,107,70,37,7,Cloudy,30
+2025-06-04,16:49,112,NatureGreen,Nagpur,Carrot,1.1,UPI,40,40,Stable,44.0,194,144,50,2,Cloudy,30
+2025-06-04,18:14,113,UrbanFresh,Indore,Spinach,1.36,Cash,25,25,Stable,34.0,225,180,45,5,Cloudy,30
+2025-06-04,13:38,114,CityFarm,Bhopal,Tomato,6.62,UPI,30,27,Low demand / Surplus stock,178.74,152,82,70,13,Cloudy,30
+2025-06-04,14:12,115,FreshBite,Kanpur,Spinach,3.01,Cash,25,34,High demand,102.34,216,184,32,11,Cloudy,30
+2025-06-05,10:46,101,GreenMart,Mumbai,Banana,7.07,Cash,50,47,Low demand / Surplus stock,332.29,221,80,141,11,Cloudy,31
+2025-06-05,11:00,102,FarmFresh,Delhi,Banana,2.6,Cash,50,46,High spoilage,119.6,87,68,19,11,Cloudy,31
+2025-06-05,15:19,103,FreshVille,Bangalore,Carrot,6.32,UPI,40,49,High demand,309.68,61,55,6,0,Cloudy,31
+2025-06-05,10:02,104,NatureBasket,Hyderabad,Spinach,7.1,Cash,25,33,High demand,234.3,81,77,4,2,Cloudy,31
+2025-06-05,07:32,105,FruitBazaar,Chennai,Mango,6.35,UPI,100,97,Low demand / Surplus stock,615.95,178,77,101,11,Cloudy,31
+2025-06-05,16:17,106,AgroFresh,Pune,Apple,4.52,UPI,120,116,High spoilage,524.32,178,134,44,14,Cloudy,31
+2025-06-05,11:16,107,DailyHarvest,Ahmedabad,Tomato,7.01,UPI,30,30,Stable,210.3,193,163,30,0,Cloudy,31
+2025-06-05,14:02,108,GreenKart,Jaipur,Carrot,2.05,Cash,40,35,Low demand / Surplus stock,71.75,185,47,138,10,Cloudy,31
+2025-06-05,10:54,109,LocalHarvest,Kolkata,Potato,6.65,UPI,20,15,Low demand / Surplus stock,99.75,181,75,106,3,Cloudy,31
+2025-06-05,14:17,110,OrganicRoots,Surat,Grapes,6.13,Cash,90,87,Low demand / Surplus stock,533.31,208,91,117,6,Cloudy,31
+2025-06-05,17:37,111,HarvestPoint,Lucknow,Grapes,1.76,Cash,90,90,Stable,158.4,130,102,28,2,Cloudy,31
+2025-06-05,09:39,112,NatureGreen,Nagpur,Potato,6.74,Cash,20,20,Stable,134.8,80,55,25,8,Cloudy,31
+2025-06-05,15:09,113,UrbanFresh,Indore,Grapes,0.69,UPI,90,100,High demand,69.0,202,180,22,2,Cloudy,31
+2025-06-05,11:33,114,CityFarm,Bhopal,Tomato,5.23,Cash,30,26,Low demand / Surplus stock,135.98,202,60,142,9,Cloudy,31
+2025-06-05,13:52,115,FreshBite,Kanpur,Mango,2.39,Cash,100,95,Low demand / Surplus stock,227.05,127,40,87,14,Cloudy,31
+2025-06-06,13:31,101,GreenMart,Mumbai,Potato,1.36,Cash,20,16,Low demand / Surplus stock,21.76,222,43,179,12,Sunny,33
+2025-06-06,09:26,102,FarmFresh,Delhi,Tomato,0.82,Cash,30,38,High demand,31.16,117,100,17,3,Sunny,33
+2025-06-06,15:46,103,FreshVille,Bangalore,Carrot,0.58,UPI,40,36,Low demand / Surplus stock,20.88,203,47,156,6,Sunny,33
+2025-06-06,12:49,104,NatureBasket,Hyderabad,Potato,5.11,UPI,20,17,Low demand / Surplus stock,86.87,225,43,182,11,Sunny,33
+2025-06-06,10:59,105,FruitBazaar,Chennai,Banana,2.19,Cash,50,46,Low demand / Surplus stock,100.74,129,49,80,2,Sunny,33
+2025-06-06,14:49,106,AgroFresh,Pune,Mango,1.22,Cash,100,97,Low demand / Surplus stock,118.34,235,132,103,2,Sunny,33
+2025-06-06,11:44,107,DailyHarvest,Ahmedabad,Onion,6.69,UPI,22,29,High demand,194.01,118,114,4,2,Sunny,33
+2025-06-06,14:45,108,GreenKart,Jaipur,Apple,5.53,UPI,120,120,Stable,663.6,207,171,36,5,Sunny,33
+2025-06-06,13:43,109,LocalHarvest,Kolkata,Mango,5.28,UPI,100,97,Low demand / Surplus stock,512.16,228,135,93,5,Sunny,33
+2025-06-06,12:02,110,OrganicRoots,Surat,Grapes,5.69,UPI,90,86,Low demand / Surplus stock,489.34,233,91,142,0,Sunny,33
+2025-06-06,14:13,111,HarvestPoint,Lucknow,Carrot,1.87,UPI,40,40,Stable,74.8,202,167,35,7,Sunny,33
+2025-06-06,14:41,112,NatureGreen,Nagpur,Potato,0.91,UPI,20,17,Low demand / Surplus stock,15.47,227,134,93,13,Sunny,33
+2025-06-06,11:35,113,UrbanFresh,Indore,Apple,5.93,Cash,120,116,Low demand / Surplus stock,687.88,166,52,114,15,Sunny,33
+2025-06-06,12:48,114,CityFarm,Bhopal,Banana,5.96,UPI,50,44,Low demand / Surplus stock,262.24,231,56,175,5,Sunny,33
+2025-06-06,12:50,115,FreshBite,Kanpur,Mango,3.56,Cash,100,97,Low demand / Surplus stock,345.32,166,40,126,6,Sunny,33
+2025-06-07,17:20,101,GreenMart,Mumbai,Spinach,3.82,UPI,25,29,Rainy weather - spoilage risk,110.78,112,55,57,5,Rainy,25
+2025-06-07,13:23,102,FarmFresh,Delhi,Banana,5.7,Cash,50,54,Rainy weather - spoilage risk,307.8,193,183,10,6,Rainy,25
+2025-06-07,13:24,103,FreshVille,Bangalore,Tomato,1.73,Cash,30,33,Rainy weather - spoilage risk,57.09,120,86,34,10,Rainy,25
+2025-06-07,17:52,104,NatureBasket,Hyderabad,Mango,5.64,Cash,100,106,Rainy weather - spoilage risk,597.84,81,65,16,13,Rainy,25
+2025-06-07,11:22,105,FruitBazaar,Chennai,Spinach,7.02,Cash,25,30,Rainy weather - spoilage risk,210.6,201,52,149,9,Rainy,25
+2025-06-07,16:46,106,AgroFresh,Pune,Onion,7.88,UPI,22,26,Rainy weather - spoilage risk,204.88,111,87,24,2,Rainy,25
+2025-06-07,07:37,107,DailyHarvest,Ahmedabad,Orange,3.26,Cash,80,86,Rainy weather - spoilage risk,280.36,125,45,80,12,Rainy,25
+2025-06-07,17:32,108,GreenKart,Jaipur,Potato,7.08,UPI,20,24,Rainy weather - spoilage risk,169.92,79,58,21,7,Rainy,25
+2025-06-07,08:26,109,LocalHarvest,Kolkata,Apple,0.83,UPI,120,124,Rainy weather - spoilage risk,102.92,152,81,71,6,Rainy,25
+2025-06-07,14:51,110,OrganicRoots,Surat,Spinach,0.62,Cash,25,28,Rainy weather - spoilage risk,17.36,118,86,32,6,Rainy,25
+2025-06-07,08:39,111,HarvestPoint,Lucknow,Tomato,6.84,Cash,30,36,Rainy weather - spoilage risk,246.24,209,43,166,7,Rainy,25
+2025-06-07,16:07,112,NatureGreen,Nagpur,Tomato,2.6,Cash,30,35,Rainy weather - spoilage risk,91.0,230,94,136,10,Rainy,25
+2025-06-07,09:08,113,UrbanFresh,Indore,Spinach,2.65,Cash,25,30,Rainy weather - spoilage risk,79.5,84,67,17,1,Rainy,25
+2025-06-07,09:54,114,CityFarm,Bhopal,Tomato,1.52,UPI,30,35,Rainy weather - spoilage risk,53.2,125,52,73,7,Rainy,25
+2025-06-07,13:35,115,FreshBite,Kanpur,Grapes,2.42,Cash,90,94,Rainy weather - spoilage risk,227.48,190,53,137,4,Rainy,25
+2025-06-08,15:36,101,GreenMart,Mumbai,Spinach,4.23,UPI,25,29,Rainy weather - spoilage risk,122.67,228,192,36,8,Rainy,24
+2025-06-08,12:27,102,FarmFresh,Delhi,Grapes,3.48,UPI,90,95,Rainy weather - spoilage risk,330.6,70,43,27,5,Rainy,24
+2025-06-08,10:45,103,FreshVille,Bangalore,Spinach,5.27,UPI,25,31,Rainy weather - spoilage risk,163.37,127,56,71,15,Rainy,24
+2025-06-08,17:04,104,NatureBasket,Hyderabad,Potato,2.83,UPI,20,23,Rainy weather - spoilage risk,65.09,81,77,4,1,Rainy,24
+2025-06-08,18:08,105,FruitBazaar,Chennai,Apple,1.59,Cash,120,123,Rainy weather - spoilage risk,195.57,169,82,87,7,Rainy,24
+2025-06-08,14:30,106,AgroFresh,Pune,Orange,2.17,UPI,80,83,Rainy weather - spoilage risk,180.11,133,116,17,8,Rainy,24
+2025-06-08,17:45,107,DailyHarvest,Ahmedabad,Potato,6.05,Cash,20,25,Rainy weather - spoilage risk,151.25,96,74,22,5,Rainy,24
+2025-06-08,13:49,108,GreenKart,Jaipur,Onion,7.23,UPI,22,28,Rainy weather - spoilage risk,202.44,219,202,17,13,Rainy,24
+2025-06-08,11:55,109,LocalHarvest,Kolkata,Spinach,3.64,Cash,25,31,Rainy weather - spoilage risk,112.84,239,55,184,2,Rainy,24
+2025-06-08,17:28,110,OrganicRoots,Surat,Tomato,4.14,UPI,30,35,Rainy weather - spoilage risk,144.9,204,157,47,12,Rainy,24
+2025-06-08,18:53,111,HarvestPoint,Lucknow,Banana,0.58,Cash,50,56,Rainy weather - spoilage risk,32.48,187,161,26,10,Rainy,24
+2025-06-08,12:42,112,NatureGreen,Nagpur,Orange,6.75,UPI,80,86,Rainy weather - spoilage risk,580.5,87,44,43,12,Rainy,24
+2025-06-08,09:07,113,UrbanFresh,Indore,Orange,3.15,Cash,80,84,Rainy weather - spoilage risk,264.6,146,130,16,15,Rainy,24
+2025-06-08,14:06,114,CityFarm,Bhopal,Potato,0.8,Cash,20,26,Rainy weather - spoilage risk,20.8,84,69,15,10,Rainy,24
+2025-06-08,12:49,115,FreshBite,Kanpur,Tomato,2.13,UPI,30,33,Rainy weather - spoilage risk,70.29,68,67,1,0,Rainy,24
+2025-06-09,12:45,101,GreenMart,Mumbai,Spinach,7.59,Cash,25,29,Rainy weather - spoilage risk,220.11,87,67,20,14,Rainy,22
+2025-06-09,14:01,102,FarmFresh,Delhi,Apple,3.28,UPI,120,125,Rainy weather - spoilage risk,410.0,123,73,50,12,Rainy,22
+2025-06-09,10:36,103,FreshVille,Bangalore,Mango,2.36,Cash,100,106,Rainy weather - spoilage risk,250.16,60,58,2,1,Rainy,22
+2025-06-09,08:22,104,NatureBasket,Hyderabad,Potato,3.62,Cash,20,24,Rainy weather - spoilage risk,86.88,214,82,132,6,Rainy,22
+2025-06-09,11:15,105,FruitBazaar,Chennai,Spinach,7.04,UPI,25,31,Rainy weather - spoilage risk,218.24,132,91,41,14,Rainy,22
+2025-06-09,17:27,106,AgroFresh,Pune,Tomato,6.45,Cash,30,34,Rainy weather - spoilage risk,219.3,128,80,48,4,Rainy,22
+2025-06-09,09:39,107,DailyHarvest,Ahmedabad,Grapes,2.81,Cash,90,96,Rainy weather - spoilage risk,269.76,121,41,80,15,Rainy,22
+2025-06-09,09:26,108,GreenKart,Jaipur,Banana,2.81,UPI,50,54,Rainy weather - spoilage risk,151.74,153,43,110,1,Rainy,22
+2025-06-09,08:20,109,LocalHarvest,Kolkata,Apple,4.96,UPI,120,123,Rainy weather - spoilage risk,610.08,227,179,48,11,Rainy,22
+2025-06-09,13:47,110,OrganicRoots,Surat,Onion,7.64,UPI,22,27,Rainy weather - spoilage risk,206.28,199,134,65,8,Rainy,22
+2025-06-09,13:34,111,HarvestPoint,Lucknow,Onion,3.4,Cash,22,26,Rainy weather - spoilage risk,88.4,120,101,19,8,Rainy,22
+2025-06-09,09:27,112,NatureGreen,Nagpur,Tomato,7.08,Cash,30,35,Rainy weather - spoilage risk,247.8,126,89,37,4,Rainy,22
+2025-06-09,13:32,113,UrbanFresh,Indore,Carrot,2.17,UPI,40,45,Rainy weather - spoilage risk,97.65,157,117,40,8,Rainy,22
+2025-06-09,12:09,114,CityFarm,Bhopal,Banana,0.67,Cash,50,56,Rainy weather - spoilage risk,37.52,104,88,16,5,Rainy,22
+2025-06-09,12:10,115,FreshBite,Kanpur,Carrot,6.11,UPI,40,46,Rainy weather - spoilage risk,281.06,195,169,26,6,Rainy,22
+2025-06-10,16:26,101,GreenMart,Mumbai,Grapes,4.99,UPI,90,92,Hot weather - storage costs,459.08,147,124,23,4,Sunny,36
+2025-06-10,14:04,102,FarmFresh,Delhi,Orange,6.72,UPI,80,82,Hot weather - storage costs,551.04,223,152,71,13,Sunny,36
+2025-06-10,10:00,103,FreshVille,Bangalore,Spinach,3.08,Cash,25,27,Hot weather - storage costs,83.16,236,195,41,13,Sunny,36
+2025-06-10,15:14,104,NatureBasket,Hyderabad,Onion,6.19,Cash,22,24,Hot weather - storage costs,148.56,93,75,18,12,Sunny,36
+2025-06-10,16:17,105,FruitBazaar,Chennai,Onion,3.83,Cash,22,18,Low demand / Surplus stock,68.94,97,50,47,0,Sunny,36
+2025-06-10,08:06,106,AgroFresh,Pune,Potato,6.91,UPI,20,26,High demand,179.66,179,171,8,2,Sunny,36
+2025-06-10,11:26,107,DailyHarvest,Ahmedabad,Tomato,1.94,Cash,30,25,Low demand / Surplus stock,48.5,211,86,125,2,Sunny,36
+2025-06-10,08:06,108,GreenKart,Jaipur,Mango,1.49,Cash,100,102,Hot weather - storage costs,151.98,122,97,25,9,Sunny,36
+2025-06-10,10:59,109,LocalHarvest,Kolkata,Onion,7.53,Cash,22,24,Hot weather - storage costs,180.72,231,190,41,11,Sunny,36
+2025-06-10,08:37,110,OrganicRoots,Surat,Potato,1.32,Cash,20,14,Low demand / Surplus stock,18.48,116,60,56,9,Sunny,36
+2025-06-10,14:46,111,HarvestPoint,Lucknow,Grapes,6.69,Cash,90,85,Low demand / Surplus stock,568.65,133,78,55,2,Sunny,36
+2025-06-10,18:30,112,NatureGreen,Nagpur,Orange,5.08,UPI,80,90,High demand,457.2,130,123,7,2,Sunny,36
+2025-06-10,18:18,113,UrbanFresh,Indore,Mango,4.42,Cash,100,102,Hot weather - storage costs,450.84,100,78,22,4,Sunny,36
+2025-06-10,11:06,114,CityFarm,Bhopal,Onion,2.28,UPI,22,32,High demand,72.96,69,63,6,2,Sunny,36
+2025-06-10,09:23,115,FreshBite,Kanpur,Grapes,4.02,Cash,90,84,Low demand / Surplus stock,337.68,172,69,103,8,Sunny,36
